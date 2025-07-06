@@ -1,0 +1,258 @@
+C:\Users\Is55\source\repos\Player\Player\obj\Debug\Player.csprojAssemblyReference.cache
+C:\Users\Is55\source\repos\Player\Player\obj\Debug\MainWindow.baml
+C:\Users\Is55\source\repos\Player\Player\obj\Debug\App.g.cs
+C:\Users\Is55\source\repos\Player\Player\obj\Debug\Player_MarkupCompile.cache
+C:\Users\Is55\source\repos\Player\Player\obj\Debug\Player_MarkupCompile.lref
+C:\Users\Is55\source\repos\Player\Player\bin\Debug\Player.exe.config
+C:\Users\Is55\source\repos\Player\Player\bin\Debug\Player.exe
+C:\Users\Is55\source\repos\Player\Player\bin\Debug\Player.pdb
+C:\Users\Is55\source\repos\Player\Player\obj\Debug\MainWindow.g.cs
+C:\Users\Is55\source\repos\Player\Player\obj\Debug\App.baml
+C:\Users\Is55\source\repos\Player\Player\obj\Debug\Player.g.resources
+C:\Users\Is55\source\repos\Player\Player\obj\Debug\Player.Properties.Resources.resources
+C:\Users\Is55\source\repos\Player\Player\obj\Debug\Player.csproj.GenerateResource.cache
+C:\Users\Is55\source\repos\Player\Player\obj\Debug\Player.csproj.CoreCompileInputs.cache
+C:\Users\Is55\source\repos\Player\Player\obj\Debug\Player.csproj.CopyComplete
+C:\Users\Is55\source\repos\Player\Player\obj\Debug\Player.exe
+C:\Users\Is55\source\repos\Player\Player\obj\Debug\Player.pdb
+C:\Users\Is55\source\repos\Player\Player\bin\Debug\taglib-sharp.dll
+C:\Users\Is55\source\repos\Player\Player\bin\Debug\MaterialDesignColors.dll
+C:\Users\Is55\source\repos\Player\Player\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Is55\source\repos\Player\Player\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Is55\source\repos\Player\Player\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Is55\source\repos\Player\Player\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Is55\source\repos\Player\Player\obj\Debug\Player_Content.g.cs
+C:\Users\thvel\OneDrive\Рабочий стол\Player\Player\bin\Debug\Player.exe.config
+C:\Users\thvel\OneDrive\Рабочий стол\Player\Player\bin\Debug\Player.exe
+C:\Users\thvel\OneDrive\Рабочий стол\Player\Player\bin\Debug\Player.pdb
+C:\Users\thvel\OneDrive\Рабочий стол\Player\Player\bin\Debug\MaterialDesignColors.dll
+C:\Users\thvel\OneDrive\Рабочий стол\Player\Player\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\thvel\OneDrive\Рабочий стол\Player\Player\bin\Debug\taglib-sharp.dll
+C:\Users\thvel\OneDrive\Рабочий стол\Player\Player\bin\Debug\MaterialDesignColors.pdb
+C:\Users\thvel\OneDrive\Рабочий стол\Player\Player\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\thvel\OneDrive\Рабочий стол\Player\Player\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\thvel\OneDrive\Рабочий стол\Player\Player\obj\Debug\Player.csprojAssemblyReference.cache
+C:\Users\thvel\OneDrive\Рабочий стол\Player\Player\obj\Debug\MainWindow.baml
+C:\Users\thvel\OneDrive\Рабочий стол\Player\Player\obj\Debug\MainWindow.g.cs
+C:\Users\thvel\OneDrive\Рабочий стол\Player\Player\obj\Debug\App.g.cs
+C:\Users\thvel\OneDrive\Рабочий стол\Player\Player\obj\Debug\Player_Content.g.cs
+C:\Users\thvel\OneDrive\Рабочий стол\Player\Player\obj\Debug\Player_MarkupCompile.cache
+C:\Users\thvel\OneDrive\Рабочий стол\Player\Player\obj\Debug\Player_MarkupCompile.lref
+C:\Users\thvel\OneDrive\Рабочий стол\Player\Player\obj\Debug\App.baml
+C:\Users\thvel\OneDrive\Рабочий стол\Player\Player\obj\Debug\Player.g.resources
+C:\Users\thvel\OneDrive\Рабочий стол\Player\Player\obj\Debug\Player.Properties.Resources.resources
+C:\Users\thvel\OneDrive\Рабочий стол\Player\Player\obj\Debug\Player.csproj.GenerateResource.cache
+C:\Users\thvel\OneDrive\Рабочий стол\Player\Player\obj\Debug\Player.csproj.CoreCompileInputs.cache
+C:\Users\thvel\OneDrive\Рабочий стол\Player\Player\obj\Debug\Player.csproj.CopyComplete
+C:\Users\thvel\OneDrive\Рабочий стол\Player\Player\obj\Debug\Player.exe
+C:\Users\thvel\OneDrive\Рабочий стол\Player\Player\obj\Debug\Player.pdb
+C:\Users\Is55\Desktop\Player\Player\bin\Debug\Player.exe.config
+C:\Users\Is55\Desktop\Player\Player\bin\Debug\Player.exe
+C:\Users\Is55\Desktop\Player\Player\bin\Debug\Player.pdb
+C:\Users\Is55\Desktop\Player\Player\bin\Debug\MaterialDesignColors.dll
+C:\Users\Is55\Desktop\Player\Player\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Is55\Desktop\Player\Player\bin\Debug\taglib-sharp.dll
+C:\Users\Is55\Desktop\Player\Player\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Is55\Desktop\Player\Player\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Is55\Desktop\Player\Player\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Is55\Desktop\Player\Player\obj\Debug\Player.csprojAssemblyReference.cache
+C:\Users\Is55\Desktop\Player\Player\obj\Debug\MainWindow.baml
+C:\Users\Is55\Desktop\Player\Player\obj\Debug\MainWindow.g.cs
+C:\Users\Is55\Desktop\Player\Player\obj\Debug\App.g.cs
+C:\Users\Is55\Desktop\Player\Player\obj\Debug\Player_Content.g.cs
+C:\Users\Is55\Desktop\Player\Player\obj\Debug\Player_MarkupCompile.cache
+C:\Users\Is55\Desktop\Player\Player\obj\Debug\Player_MarkupCompile.lref
+C:\Users\Is55\Desktop\Player\Player\obj\Debug\App.baml
+C:\Users\Is55\Desktop\Player\Player\obj\Debug\Player.g.resources
+C:\Users\Is55\Desktop\Player\Player\obj\Debug\Player.Properties.Resources.resources
+C:\Users\Is55\Desktop\Player\Player\obj\Debug\Player.csproj.GenerateResource.cache
+C:\Users\Is55\Desktop\Player\Player\obj\Debug\Player.csproj.CoreCompileInputs.cache
+C:\Users\Is55\Desktop\Player\Player\obj\Debug\Player.csproj.CopyComplete
+C:\Users\Is55\Desktop\Player\Player\obj\Debug\Player.exe
+C:\Users\Is55\Desktop\Player\Player\obj\Debug\Player.pdb
+C:\Users\Is55\Desktop\Player\Player\obj\Debug\reklama.g.cs
+C:\Users\Is55\Desktop\Player\Player\obj\Debug\reklama.baml
+C:\Users\Is55\Desktop\Player\Player\obj\Debug\log_reg.g.cs
+C:\Users\Is55\Desktop\Player\Player\obj\Debug\log_reg.baml
+C:\Users\Is55\Desktop\Player\Player\obj\Debug\reg.g.cs
+C:\Users\Is55\Desktop\Player\Player\obj\Debug\reg.baml
+C:\Users\thvel\OneDrive\Рабочий стол\Player\Player\obj\Debug\log_reg.g.cs
+C:\Users\thvel\OneDrive\Рабочий стол\Player\Player\obj\Debug\reg.g.cs
+C:\Users\thvel\OneDrive\Рабочий стол\Player\Player\obj\Debug\reklama.g.cs
+C:\Users\thvel\OneDrive\Рабочий стол\Player\Player\obj\Debug\log_reg.baml
+C:\Users\thvel\OneDrive\Рабочий стол\Player\Player\obj\Debug\reg.baml
+C:\Users\thvel\OneDrive\Рабочий стол\Player\Player\obj\Debug\reklama.baml
+C:\Users\thvel\OneDrive\Рабочий стол\Player\WPF-Player\Player\bin\Debug\Player.exe.config
+C:\Users\thvel\OneDrive\Рабочий стол\Player\WPF-Player\Player\bin\Debug\Player.exe
+C:\Users\thvel\OneDrive\Рабочий стол\Player\WPF-Player\Player\bin\Debug\Player.pdb
+C:\Users\thvel\OneDrive\Рабочий стол\Player\WPF-Player\Player\bin\Debug\MaterialDesignColors.dll
+C:\Users\thvel\OneDrive\Рабочий стол\Player\WPF-Player\Player\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\thvel\OneDrive\Рабочий стол\Player\WPF-Player\Player\bin\Debug\taglib-sharp.dll
+C:\Users\thvel\OneDrive\Рабочий стол\Player\WPF-Player\Player\bin\Debug\MaterialDesignColors.pdb
+C:\Users\thvel\OneDrive\Рабочий стол\Player\WPF-Player\Player\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\thvel\OneDrive\Рабочий стол\Player\WPF-Player\Player\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\thvel\OneDrive\Рабочий стол\Player\WPF-Player\Player\obj\Debug\Player.csprojAssemblyReference.cache
+C:\Users\thvel\OneDrive\Рабочий стол\Player\WPF-Player\Player\obj\Debug\MainWindow.baml
+C:\Users\thvel\OneDrive\Рабочий стол\Player\WPF-Player\Player\obj\Debug\log_reg.g.cs
+C:\Users\thvel\OneDrive\Рабочий стол\Player\WPF-Player\Player\obj\Debug\MainWindow.g.cs
+C:\Users\thvel\OneDrive\Рабочий стол\Player\WPF-Player\Player\obj\Debug\reg.g.cs
+C:\Users\thvel\OneDrive\Рабочий стол\Player\WPF-Player\Player\obj\Debug\reklama.g.cs
+C:\Users\thvel\OneDrive\Рабочий стол\Player\WPF-Player\Player\obj\Debug\App.g.cs
+C:\Users\thvel\OneDrive\Рабочий стол\Player\WPF-Player\Player\obj\Debug\Player_Content.g.cs
+C:\Users\thvel\OneDrive\Рабочий стол\Player\WPF-Player\Player\obj\Debug\Player_MarkupCompile.cache
+C:\Users\thvel\OneDrive\Рабочий стол\Player\WPF-Player\Player\obj\Debug\Player_MarkupCompile.lref
+C:\Users\thvel\OneDrive\Рабочий стол\Player\WPF-Player\Player\obj\Debug\App.baml
+C:\Users\thvel\OneDrive\Рабочий стол\Player\WPF-Player\Player\obj\Debug\log_reg.baml
+C:\Users\thvel\OneDrive\Рабочий стол\Player\WPF-Player\Player\obj\Debug\reg.baml
+C:\Users\thvel\OneDrive\Рабочий стол\Player\WPF-Player\Player\obj\Debug\reklama.baml
+C:\Users\thvel\OneDrive\Рабочий стол\Player\WPF-Player\Player\obj\Debug\Player.g.resources
+C:\Users\thvel\OneDrive\Рабочий стол\Player\WPF-Player\Player\obj\Debug\Player.Properties.Resources.resources
+C:\Users\thvel\OneDrive\Рабочий стол\Player\WPF-Player\Player\obj\Debug\Player.csproj.GenerateResource.cache
+C:\Users\thvel\OneDrive\Рабочий стол\Player\WPF-Player\Player\obj\Debug\Player.csproj.CoreCompileInputs.cache
+C:\Users\thvel\OneDrive\Рабочий стол\Player\WPF-Player\Player\obj\Debug\Player.csproj.CopyComplete
+C:\Users\thvel\OneDrive\Рабочий стол\Player\WPF-Player\Player\obj\Debug\Player.exe
+C:\Users\thvel\OneDrive\Рабочий стол\Player\WPF-Player\Player\obj\Debug\Player.pdb
+C:\Users\thvel\OneDrive\Рабочий стол\DZ\С#\Player\WPF-Player\Player\bin\Debug\Player.exe.config
+C:\Users\thvel\OneDrive\Рабочий стол\DZ\С#\Player\WPF-Player\Player\bin\Debug\Player.exe
+C:\Users\thvel\OneDrive\Рабочий стол\DZ\С#\Player\WPF-Player\Player\bin\Debug\Player.pdb
+C:\Users\thvel\OneDrive\Рабочий стол\DZ\С#\Player\WPF-Player\Player\bin\Debug\MaterialDesignColors.dll
+C:\Users\thvel\OneDrive\Рабочий стол\DZ\С#\Player\WPF-Player\Player\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\thvel\OneDrive\Рабочий стол\DZ\С#\Player\WPF-Player\Player\bin\Debug\taglib-sharp.dll
+C:\Users\thvel\OneDrive\Рабочий стол\DZ\С#\Player\WPF-Player\Player\bin\Debug\MaterialDesignColors.pdb
+C:\Users\thvel\OneDrive\Рабочий стол\DZ\С#\Player\WPF-Player\Player\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\thvel\OneDrive\Рабочий стол\DZ\С#\Player\WPF-Player\Player\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\thvel\OneDrive\Рабочий стол\DZ\С#\Player\WPF-Player\Player\obj\Debug\Player.csprojAssemblyReference.cache
+C:\Users\thvel\OneDrive\Рабочий стол\DZ\С#\Player\WPF-Player\Player\obj\Debug\MainWindow.baml
+C:\Users\thvel\OneDrive\Рабочий стол\DZ\С#\Player\WPF-Player\Player\obj\Debug\log_reg.g.cs
+C:\Users\thvel\OneDrive\Рабочий стол\DZ\С#\Player\WPF-Player\Player\obj\Debug\MainWindow.g.cs
+C:\Users\thvel\OneDrive\Рабочий стол\DZ\С#\Player\WPF-Player\Player\obj\Debug\reg.g.cs
+C:\Users\thvel\OneDrive\Рабочий стол\DZ\С#\Player\WPF-Player\Player\obj\Debug\reklama.g.cs
+C:\Users\thvel\OneDrive\Рабочий стол\DZ\С#\Player\WPF-Player\Player\obj\Debug\App.g.cs
+C:\Users\thvel\OneDrive\Рабочий стол\DZ\С#\Player\WPF-Player\Player\obj\Debug\Player_Content.g.cs
+C:\Users\thvel\OneDrive\Рабочий стол\DZ\С#\Player\WPF-Player\Player\obj\Debug\Player_MarkupCompile.cache
+C:\Users\thvel\OneDrive\Рабочий стол\DZ\С#\Player\WPF-Player\Player\obj\Debug\Player_MarkupCompile.lref
+C:\Users\thvel\OneDrive\Рабочий стол\DZ\С#\Player\WPF-Player\Player\obj\Debug\App.baml
+C:\Users\thvel\OneDrive\Рабочий стол\DZ\С#\Player\WPF-Player\Player\obj\Debug\log_reg.baml
+C:\Users\thvel\OneDrive\Рабочий стол\DZ\С#\Player\WPF-Player\Player\obj\Debug\reg.baml
+C:\Users\thvel\OneDrive\Рабочий стол\DZ\С#\Player\WPF-Player\Player\obj\Debug\reklama.baml
+C:\Users\thvel\OneDrive\Рабочий стол\DZ\С#\Player\WPF-Player\Player\obj\Debug\Player.g.resources
+C:\Users\thvel\OneDrive\Рабочий стол\DZ\С#\Player\WPF-Player\Player\obj\Debug\Player.Properties.Resources.resources
+C:\Users\thvel\OneDrive\Рабочий стол\DZ\С#\Player\WPF-Player\Player\obj\Debug\Player.csproj.GenerateResource.cache
+C:\Users\thvel\OneDrive\Рабочий стол\DZ\С#\Player\WPF-Player\Player\obj\Debug\Player.csproj.CoreCompileInputs.cache
+C:\Users\thvel\OneDrive\Рабочий стол\DZ\С#\Player\WPF-Player\Player\obj\Debug\Player.csproj.CopyComplete
+C:\Users\thvel\OneDrive\Рабочий стол\DZ\С#\Player\WPF-Player\Player\obj\Debug\Player.exe
+C:\Users\thvel\OneDrive\Рабочий стол\DZ\С#\Player\WPF-Player\Player\obj\Debug\Player.pdb
+C:\Users\Alex\source\repos\Player\Player\bin\Debug\Player.exe.config
+C:\Users\Alex\source\repos\Player\Player\bin\Debug\Player.exe
+C:\Users\Alex\source\repos\Player\Player\bin\Debug\Player.pdb
+C:\Users\Alex\source\repos\Player\Player\bin\Debug\MaterialDesignColors.dll
+C:\Users\Alex\source\repos\Player\Player\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Alex\source\repos\Player\Player\bin\Debug\taglib-sharp.dll
+C:\Users\Alex\source\repos\Player\Player\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Alex\source\repos\Player\Player\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Alex\source\repos\Player\Player\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Alex\source\repos\Player\Player\obj\Debug\Player.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\Player\Player\obj\Debug\MainWindow.baml
+C:\Users\Alex\source\repos\Player\Player\obj\Debug\log_reg.g.cs
+C:\Users\Alex\source\repos\Player\Player\obj\Debug\MainWindow.g.cs
+C:\Users\Alex\source\repos\Player\Player\obj\Debug\reg.g.cs
+C:\Users\Alex\source\repos\Player\Player\obj\Debug\reklama.g.cs
+C:\Users\Alex\source\repos\Player\Player\obj\Debug\App.g.cs
+C:\Users\Alex\source\repos\Player\Player\obj\Debug\Player_Content.g.cs
+C:\Users\Alex\source\repos\Player\Player\obj\Debug\Player_MarkupCompile.cache
+C:\Users\Alex\source\repos\Player\Player\obj\Debug\Player_MarkupCompile.lref
+C:\Users\Alex\source\repos\Player\Player\obj\Debug\App.baml
+C:\Users\Alex\source\repos\Player\Player\obj\Debug\log_reg.baml
+C:\Users\Alex\source\repos\Player\Player\obj\Debug\reg.baml
+C:\Users\Alex\source\repos\Player\Player\obj\Debug\reklama.baml
+C:\Users\Alex\source\repos\Player\Player\obj\Debug\Player.g.resources
+C:\Users\Alex\source\repos\Player\Player\obj\Debug\Player.Properties.Resources.resources
+C:\Users\Alex\source\repos\Player\Player\obj\Debug\Player.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\Player\Player\obj\Debug\Player.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Player\Player\obj\Debug\Player.csproj.CopyComplete
+C:\Users\Alex\source\repos\Player\Player\obj\Debug\Player.exe
+C:\Users\Alex\source\repos\Player\Player\obj\Debug\Player.pdb
+C:\Users\solox\OneDrive\Рабочий стол\Player\Player\bin\Debug\Player.exe.config
+C:\Users\solox\OneDrive\Рабочий стол\Player\Player\bin\Debug\Player.exe
+C:\Users\solox\OneDrive\Рабочий стол\Player\Player\bin\Debug\Player.pdb
+C:\Users\solox\OneDrive\Рабочий стол\Player\Player\bin\Debug\MaterialDesignColors.dll
+C:\Users\solox\OneDrive\Рабочий стол\Player\Player\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\solox\OneDrive\Рабочий стол\Player\Player\bin\Debug\taglib-sharp.dll
+C:\Users\solox\OneDrive\Рабочий стол\Player\Player\bin\Debug\MaterialDesignColors.pdb
+C:\Users\solox\OneDrive\Рабочий стол\Player\Player\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\solox\OneDrive\Рабочий стол\Player\Player\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\solox\OneDrive\Рабочий стол\Player\Player\obj\Debug\Player.csprojAssemblyReference.cache
+C:\Users\solox\OneDrive\Рабочий стол\Player\Player\obj\Debug\MainWindow.baml
+C:\Users\solox\OneDrive\Рабочий стол\Player\Player\obj\Debug\log_reg.g.cs
+C:\Users\solox\OneDrive\Рабочий стол\Player\Player\obj\Debug\MainWindow.g.cs
+C:\Users\solox\OneDrive\Рабочий стол\Player\Player\obj\Debug\reg.g.cs
+C:\Users\solox\OneDrive\Рабочий стол\Player\Player\obj\Debug\App.g.cs
+C:\Users\solox\OneDrive\Рабочий стол\Player\Player\obj\Debug\Player_Content.g.cs
+C:\Users\solox\OneDrive\Рабочий стол\Player\Player\obj\Debug\Player_MarkupCompile.cache
+C:\Users\solox\OneDrive\Рабочий стол\Player\Player\obj\Debug\Player_MarkupCompile.lref
+C:\Users\solox\OneDrive\Рабочий стол\Player\Player\obj\Debug\App.baml
+C:\Users\solox\OneDrive\Рабочий стол\Player\Player\obj\Debug\log_reg.baml
+C:\Users\solox\OneDrive\Рабочий стол\Player\Player\obj\Debug\reg.baml
+C:\Users\solox\OneDrive\Рабочий стол\Player\Player\obj\Debug\Player.g.resources
+C:\Users\solox\OneDrive\Рабочий стол\Player\Player\obj\Debug\Player.Properties.Resources.resources
+C:\Users\solox\OneDrive\Рабочий стол\Player\Player\obj\Debug\Player.csproj.GenerateResource.cache
+C:\Users\solox\OneDrive\Рабочий стол\Player\Player\obj\Debug\Player.csproj.CoreCompileInputs.cache
+C:\Users\solox\OneDrive\Рабочий стол\Player\Player\obj\Debug\Player.csproj.CopyComplete
+C:\Users\solox\OneDrive\Рабочий стол\Player\Player\obj\Debug\Player.exe
+C:\Users\solox\OneDrive\Рабочий стол\Player\Player\obj\Debug\Player.pdb
+C:\Users\pavel\OneDrive\Рабочий стол\Player\Player\bin\Debug\Player.exe.config
+C:\Users\pavel\OneDrive\Рабочий стол\Player\Player\bin\Debug\Player.exe
+C:\Users\pavel\OneDrive\Рабочий стол\Player\Player\bin\Debug\Player.pdb
+C:\Users\pavel\OneDrive\Рабочий стол\Player\Player\bin\Debug\MaterialDesignColors.dll
+C:\Users\pavel\OneDrive\Рабочий стол\Player\Player\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\pavel\OneDrive\Рабочий стол\Player\Player\bin\Debug\taglib-sharp.dll
+C:\Users\pavel\OneDrive\Рабочий стол\Player\Player\bin\Debug\MaterialDesignColors.pdb
+C:\Users\pavel\OneDrive\Рабочий стол\Player\Player\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\pavel\OneDrive\Рабочий стол\Player\Player\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\pavel\OneDrive\Рабочий стол\Player\Player\obj\Debug\Player.csprojAssemblyReference.cache
+C:\Users\pavel\OneDrive\Рабочий стол\Player\Player\obj\Debug\MainWindow.baml
+C:\Users\pavel\OneDrive\Рабочий стол\Player\Player\obj\Debug\log_reg.g.cs
+C:\Users\pavel\OneDrive\Рабочий стол\Player\Player\obj\Debug\MainWindow.g.cs
+C:\Users\pavel\OneDrive\Рабочий стол\Player\Player\obj\Debug\reg.g.cs
+C:\Users\pavel\OneDrive\Рабочий стол\Player\Player\obj\Debug\App.g.cs
+C:\Users\pavel\OneDrive\Рабочий стол\Player\Player\obj\Debug\Player_Content.g.cs
+C:\Users\pavel\OneDrive\Рабочий стол\Player\Player\obj\Debug\Player_MarkupCompile.cache
+C:\Users\pavel\OneDrive\Рабочий стол\Player\Player\obj\Debug\Player_MarkupCompile.lref
+C:\Users\pavel\OneDrive\Рабочий стол\Player\Player\obj\Debug\App.baml
+C:\Users\pavel\OneDrive\Рабочий стол\Player\Player\obj\Debug\log_reg.baml
+C:\Users\pavel\OneDrive\Рабочий стол\Player\Player\obj\Debug\reg.baml
+C:\Users\pavel\OneDrive\Рабочий стол\Player\Player\obj\Debug\Player.g.resources
+C:\Users\pavel\OneDrive\Рабочий стол\Player\Player\obj\Debug\Player.Properties.Resources.resources
+C:\Users\pavel\OneDrive\Рабочий стол\Player\Player\obj\Debug\Player.csproj.GenerateResource.cache
+C:\Users\pavel\OneDrive\Рабочий стол\Player\Player\obj\Debug\Player.csproj.CoreCompileInputs.cache
+C:\Users\pavel\OneDrive\Рабочий стол\Player\Player\obj\Debug\Player.csproj.CopyComplete
+C:\Users\pavel\OneDrive\Рабочий стол\Player\Player\obj\Debug\Player.exe
+C:\Users\pavel\OneDrive\Рабочий стол\Player\Player\obj\Debug\Player.pdb
+C:\Users\User\Desktop\C#\Player\Player\bin\Debug\Player.exe.config
+C:\Users\User\Desktop\C#\Player\Player\bin\Debug\Player.exe
+C:\Users\User\Desktop\C#\Player\Player\bin\Debug\Player.pdb
+C:\Users\User\Desktop\C#\Player\Player\bin\Debug\MaterialDesignColors.dll
+C:\Users\User\Desktop\C#\Player\Player\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\User\Desktop\C#\Player\Player\bin\Debug\taglib-sharp.dll
+C:\Users\User\Desktop\C#\Player\Player\bin\Debug\MaterialDesignColors.pdb
+C:\Users\User\Desktop\C#\Player\Player\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\User\Desktop\C#\Player\Player\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\User\Desktop\C#\Player\Player\obj\Debug\Player.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C#\Player\Player\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\C#\Player\Player\obj\Debug\log_reg.g.cs
+C:\Users\User\Desktop\C#\Player\Player\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\C#\Player\Player\obj\Debug\reg.g.cs
+C:\Users\User\Desktop\C#\Player\Player\obj\Debug\App.g.cs
+C:\Users\User\Desktop\C#\Player\Player\obj\Debug\Player_Content.g.cs
+C:\Users\User\Desktop\C#\Player\Player\obj\Debug\Player_MarkupCompile.cache
+C:\Users\User\Desktop\C#\Player\Player\obj\Debug\Player_MarkupCompile.lref
+C:\Users\User\Desktop\C#\Player\Player\obj\Debug\App.baml
+C:\Users\User\Desktop\C#\Player\Player\obj\Debug\log_reg.baml
+C:\Users\User\Desktop\C#\Player\Player\obj\Debug\reg.baml
+C:\Users\User\Desktop\C#\Player\Player\obj\Debug\Player.g.resources
+C:\Users\User\Desktop\C#\Player\Player\obj\Debug\Player.Properties.Resources.resources
+C:\Users\User\Desktop\C#\Player\Player\obj\Debug\Player.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C#\Player\Player\obj\Debug\Player.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\Player\Player\obj\Debug\Player.csproj.CopyComplete
+C:\Users\User\Desktop\C#\Player\Player\obj\Debug\Player.exe
+C:\Users\User\Desktop\C#\Player\Player\obj\Debug\Player.pdb

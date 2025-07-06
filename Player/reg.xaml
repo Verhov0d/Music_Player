@@ -1,0 +1,28 @@
+﻿<Window x:Class="Player.reg"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Player"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Title="Регистрация" Height="400" Width="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+        <TextBlock Text="Регистрация" FontSize="30" Grid.Row="0" HorizontalAlignment="Center"/>
+        <TextBlock Text="Придумайте логин и пароль" FontSize="20" Grid.Row="1" HorizontalAlignment="Center"/>
+        <TextBlock Text="Логин:" FontSize="15" Grid.Row="2" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <TextBox x:Name="tb_log" Grid.Row="3" Width="250" Background="Cyan" VerticalAlignment="Center" HorizontalContentAlignment="Center"/>
+        <TextBlock Text="Пароль:" FontSize="15" Grid.Row="4" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <PasswordBox x:Name="pb_pass" Grid.Row="5" Width="250" Background="Cyan" VerticalAlignment="Center" HorizontalContentAlignment="Center"/>
+        <Button x:Name="b_reg" Grid.Row="6" Content="Зарегестрироваться" Click="b_reg_Click"/>
+        </Grid>
+</Window>
